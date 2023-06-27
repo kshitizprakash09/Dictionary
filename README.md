@@ -53,6 +53,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any questions or inquiries, please contact [your-email@example.com](kshitizprakash09@gmail.com).
+For any questions or inquiries, please contact [kshitizprakash09@gmail.com](kshitizprakash09@gmail.com).
 
 Enjoy using the dictionary!
